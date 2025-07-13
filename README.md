@@ -26,7 +26,7 @@ This project reimagines the psychological effects of digital communication throu
 | Video Generation        | HailuoAI                      |
 | Editing & Transitions   | CapCut                        |
 | Sound Design            | CapCut, ChatGPT-guided search |
-| Final Compilation       | CapCut, RunwayML (optional)   |
+| Final Compilation       | CapCut  |
 
 ---
 
